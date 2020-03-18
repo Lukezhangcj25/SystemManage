@@ -2,11 +2,134 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="IDEA_EE:war exploded" />
+      <artifact name="SystemManage:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="511425ce-d636-4a78-83e3-4017f23fc761" name="Default Changelist" comment="" />
+    <list default="true" id="511425ce-d636-4a78-83e3-4017f23fc761" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SystemManage_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_7_2_2_jre8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/IDEA_EE_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDEA_EE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SystemManage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SystemManage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clz/demo/util/DownLoadUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtilsT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/IDEA_EE.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/Session/SessionDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/Session/SessionDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/Session/SessionDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/SessionDemo/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/SessionDemo/LoginServletD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/SessionDemo/LoginUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/SessionTemp/LoginDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/SessionTemp/LoginServletT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/cookie/CookieDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/cookie/CookieDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/cookie/CookieDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/cookie/CookieDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/cookie/CookieDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/cookie/CookieDemo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/cookie/CookieTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/download/DownLoadServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/request/RequestDemo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/response/CheckCodeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/response/ResponseDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/response/ResponseDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/response/ResponseDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/response/ResponseDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/response/ResponseDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servlet/FailServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servlet/ServletDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servlet/ServletDemo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servlet/ServletGeneric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servlet/ServletHttp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servlet/SuccessServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servletContext/ServletContextDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servletContext/ServletContextDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servletContext/ServletContextDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servletContext/ServletContextDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/servletContext/ServletContextDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/util/DownLoadUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/util/JDBCUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/util/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/clz/demo/util/JDBCUtilsT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/servlet/ServletDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/com/alibaba/druid/1.1.12/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com/alibaba/druid/1.1.12/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/com/microsoft/sqlserver/mssql-jdbc/7.2.2.jre8/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com/microsoft/sqlserver/mssql-jdbc/7.2.2.jre8/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils/commons-beanutils/1.8.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils/commons-beanutils/1.8.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging/commons-logging/1.1.1/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging/commons-logging/1.1.1/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging/commons-logging/1.2/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging/commons-logging/1.2/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/io/netty/netty-bom/4.1.15.Final/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/io/netty/netty-bom/4.1.15.Final/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/io/projectreactor/reactor-bom/Bismuth-RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/io/projectreactor/reactor-bom/Bismuth-RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/javax/servlet/jstl/1.2/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax/servlet/jstl/1.2/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/mysql/mysql-connector-java/5.1.37/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql/mysql-connector-java/5.1.37/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/net/java/jvnet-parent/1/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/net/java/jvnet-parent/1/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/apache/13/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/apache/13/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/apache/4/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/apache/4/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/commons/commons-parent/11/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/commons/commons-parent/11/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/commons/commons-parent/34/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/commons/commons-parent/34/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/commons/commons-parent/5/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/apache/commons/commons-parent/5/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/apiguardian/apiguardian-api/1.1.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/apiguardian/apiguardian-api/1.1.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/junit-bom/5.6.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/junit-bom/5.6.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/jupiter/junit-jupiter-api/5.6.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/jupiter/junit-jupiter-api/5.6.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/jupiter/junit-jupiter-api/resolver-status.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/jupiter/junit-jupiter-api/resolver-status.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/platform/junit-platform-commons/1.6.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/junit/platform/junit-platform-commons/1.6.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/opentest4j/opentest4j/1.2.0/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/opentest4j/opentest4j/1.2.0/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/sonatype/oss/oss-parent/7/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/sonatype/oss/oss-parent/7/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-aop/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-aop/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-beans/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-beans/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-context/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-context/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-core/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-core/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-expression/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-expression/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-jcl/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-jcl/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-jdbc/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-jdbc/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-tx/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-tx/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-web/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-web/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-webmvc/5.0.0.RELEASE/_remote.repositories" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org/springframework/spring-webmvc/5.0.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +155,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
-        <option value="Jsp File" />
         <option value="HTML File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -52,13 +176,14 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="G:\Project\SystemManage\web\WEB-INF\lib" />
-        <option name="mavenHome" value="G:/../apache-maven-3.6.2" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.2" />
         <option name="userSettingsFile" value="G:\Project\apache-maven-3.6.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -67,31 +192,40 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1WCH01YRjriamf8AGTETDOsxa8J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlserver" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578561346312" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apache-tomcat-8.5.45/webapps/IDEA_EE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.33448276" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.28965518" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Project\SystemManage\web\WEB-INF" />
       <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\web\WEB-INF\lib" />
       <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\web" />
       <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\src" />
@@ -105,11 +239,11 @@
       <recent name="cookie" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Project\SystemManage\web\WEB-INF" />
       <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\src\main\java\com\clz\demo" />
       <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\src\main" />
       <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\src\main\properites" />
       <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\web" />
-      <recent name="G:\Project\apache-tomcat-8.5.45\webapps\IDEA_EE\web\js" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.45">
@@ -152,19 +286,20 @@
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
-        <artifact name="IDEA_EE:war exploded">
+        <artifact name="SystemManage:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/G3" />
           </settings>
         </artifact>
         <file path="%IDEA_RUN:TOMCAT_HOME%/webapps/ROOT">
           <settings>
-            <option name="CONTEXT_PATH" value="/ROOT" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </file>
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_45_IDEA_EE_4" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
         <option name="HTTP_PORT" value="9002" />
       </server-settings>
       <log_file alias="Tomcat Host Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" />
@@ -223,7 +358,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="IDEA_EE:war exploded" />
+          <artifact name="SystemManage:war exploded" />
         </option>
       </method>
     </configuration>
@@ -298,22 +433,38 @@
       <workItem from="1583887707312" duration="1461000" />
       <workItem from="1584062657605" duration="722000" />
       <workItem from="1584063455013" duration="1563000" />
-      <workItem from="1584065417069" duration="3883000" />
+      <workItem from="1584065417069" duration="20703000" />
+      <workItem from="1584433583554" duration="3852000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="845" y="182" key="#Inspections" timestamp="1579584956084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="845" y="182" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1579584956084" />
+    <state x="487" y="308" key="#Project_Structure" timestamp="1584492070879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="308" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584492070879" />
     <state x="962" y="278" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578987720879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="962" y="278" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578987720879" />
+    <state x="533" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584495045919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="533" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584495045919" />
+    <state x="1059" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1584327643029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1059" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584327643029" />
     <state x="1022" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578646551816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -322,58 +473,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578646740941" />
-    <state x="729" y="354" key="FileChooserDialogImpl" timestamp="1584069038466">
+    <state x="729" y="354" key="FileChooserDialogImpl" timestamp="1584490113451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="729" y="354" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584069038466" />
-    <state width="1278" height="356" key="GridCell.Tab.0.bottom" timestamp="1579591194025">
+    <state x="729" y="354" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584490113451" />
+    <state width="1589" height="360" key="GridCell.Tab.0.bottom" timestamp="1584495340340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194025" />
-    <state width="1278" height="356" key="GridCell.Tab.0.center" timestamp="1579591194024">
+    <state width="1589" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340340" />
+    <state width="1589" height="360" key="GridCell.Tab.0.center" timestamp="1584495340340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194024" />
-    <state width="1278" height="356" key="GridCell.Tab.0.left" timestamp="1579591194023">
+    <state width="1589" height="360" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340340" />
+    <state width="1589" height="360" key="GridCell.Tab.0.left" timestamp="1584495340340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194023" />
-    <state width="1278" height="356" key="GridCell.Tab.0.right" timestamp="1579591194024">
+    <state width="1589" height="360" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340340" />
+    <state width="1589" height="360" key="GridCell.Tab.0.right" timestamp="1584495340340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194024" />
-    <state width="1278" height="356" key="GridCell.Tab.1.bottom" timestamp="1579591194025">
+    <state width="1589" height="360" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340340" />
+    <state width="1589" height="360" key="GridCell.Tab.1.bottom" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194025" />
-    <state width="1278" height="356" key="GridCell.Tab.1.center" timestamp="1579591194025">
+    <state width="1589" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
+    <state width="1589" height="360" key="GridCell.Tab.1.center" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194025" />
-    <state width="1278" height="356" key="GridCell.Tab.1.left" timestamp="1579591194025">
+    <state width="1589" height="360" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
+    <state width="1589" height="360" key="GridCell.Tab.1.left" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194025" />
-    <state width="1278" height="356" key="GridCell.Tab.1.right" timestamp="1579591194025">
+    <state width="1589" height="360" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
+    <state width="1589" height="360" key="GridCell.Tab.1.right" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194025" />
-    <state width="1278" height="356" key="GridCell.Tab.2.bottom" timestamp="1579591194026">
+    <state width="1589" height="360" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
+    <state width="1589" height="360" key="GridCell.Tab.2.bottom" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194026" />
-    <state width="1278" height="356" key="GridCell.Tab.2.center" timestamp="1579591194025">
+    <state width="1589" height="360" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
+    <state width="1589" height="360" key="GridCell.Tab.2.center" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194025" />
-    <state width="1278" height="356" key="GridCell.Tab.2.left" timestamp="1579591194025">
+    <state width="1589" height="360" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
+    <state width="1589" height="360" key="GridCell.Tab.2.left" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194025" />
-    <state width="1278" height="356" key="GridCell.Tab.2.right" timestamp="1579591194026">
+    <state width="1589" height="360" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
+    <state width="1589" height="360" key="GridCell.Tab.2.right" timestamp="1584495340341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1278" height="356" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194026" />
+    <state width="1589" height="360" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584495340341" />
     <state width="1278" height="356" key="GridCell.Tab.3.bottom" timestamp="1579591194027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -390,26 +541,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1278" height="356" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579591194026" />
-    <state x="773" y="149" key="SettingsEditor" timestamp="1584065919438">
+    <state x="443" y="178" key="Maven.ArtifactSearchDialog" timestamp="1584490197787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="149" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584065919438" />
+    <state x="443" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584490197787" />
+    <state x="442" y="114" key="SettingsEditor" timestamp="1584492144993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="114" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584492144993" />
     <state x="933" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1583389505038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="933" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583389505038" />
+    <state x="660" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584490248858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1584490248858" />
+    <state x="823" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584324115365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584324115365" />
     <state x="207" y="126" width="786" height="801" key="find.popup" timestamp="1579500554775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="207" y="126" width="786" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579500554775" />
-    <state x="285" y="367" key="new project wizard" timestamp="1584063784235">
+    <state x="285" y="367" key="new project wizard" timestamp="1584431009699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="285" y="367" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584063784235" />
-    <state x="884" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1578895971179">
+    <state x="285" y="367" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584431009699" />
+    <state x="884" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1584490178237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="884" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578895971179" />
+    <state x="884" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584490178237" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -418,76 +581,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/servlet/SuccessServlet.java</url>
           <line>17</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtil.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtilsT.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtilsT.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/util/JDBCUtilsT.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/clz/demo/SessionTemp/LoginServletT.java</url>

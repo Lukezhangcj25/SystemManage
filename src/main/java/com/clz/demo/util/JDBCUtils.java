@@ -1,5 +1,6 @@
 package com.clz.demo.util;
 
+
 import com.alibaba.druid.pool.DruidDataSourceFactory;
 
 import javax.sql.DataSource;
@@ -37,7 +38,7 @@ public class JDBCUtils {
     }
 
     // 获取连接池Connection对象
-    public static Connection getConnection() throws SQLException{
+    public static Connection getConnection() throws SQLException {
         return ds.getConnection();
     }
 }

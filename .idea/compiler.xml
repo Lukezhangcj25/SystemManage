@@ -9,8 +9,8 @@
         <module name="SystemManage" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SystemManage" target="6" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="SystemManage" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

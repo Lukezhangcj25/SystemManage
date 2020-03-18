@@ -1,0 +1,7 @@
+com\clz\demo\service\impl\ResidentAccountServiceImpl.class
+com\clz\demo\dao\impl\ResidentAccountDaoImpl.class
+com\clz\demo\dao\ResidentAccountDao.class
+com\clz\demo\util\JDBCUtils.class
+com\clz\demo\domain\ResidentAccount.class
+com\clz\demo\service\ResidentAccountService.class
+com\clz\demo\web\servlet\ResidentListServlet.class

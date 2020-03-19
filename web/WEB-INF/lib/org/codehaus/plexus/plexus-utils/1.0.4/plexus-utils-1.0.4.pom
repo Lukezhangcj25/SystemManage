@@ -165,7 +165,7 @@
         <version>RELEASE</version>
         <configuration>
           <excludes>
-            <exclude implementation="java.lang.String">org/codehaus/plexus/com.clz.demo.util/FileBasedTestCase.java</exclude>
+            <exclude implementation="java.lang.String">org/codehaus/plexus/util/FileBasedTestCase.java</exclude>
             <exclude implementation="java.lang.String">**/Test*.java</exclude>
           </excludes>
         </configuration>

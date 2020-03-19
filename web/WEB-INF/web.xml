@@ -5,6 +5,12 @@
          version="4.0"
          metadata-complete="false"
 >
-
-
+    <servlet>
+        <servlet-name>Demo</servlet-name>
+        <servlet-class>com.clz.demo.web.servlet.ResidentListServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Demo</servlet-name>
+        <url-pattern>/Demo</url-pattern>
+    </servlet-mapping>
 </web-app>

@@ -69,7 +69,7 @@
   <properties>
     <!-- OW2 Logo can be referred using the '${organization.logo}' property -->
     <organization.logo>
-      http://www.ow2.org/xwiki/bin/com.clz.demo.download/NewsEvents/MarketingResources/ow2_logo_small_transp.png
+      http://www.ow2.org/xwiki/bin/download/NewsEvents/MarketingResources/ow2_logo_small_transp.png
     </organization.logo>
     <!-- Avoid the annoying warning -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

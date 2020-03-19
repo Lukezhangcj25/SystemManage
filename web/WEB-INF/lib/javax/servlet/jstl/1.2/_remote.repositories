@@ -1,7 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Mar 17 15:40:23 CST 2020
-jstl-1.2.jar>alimaven=
-jstl-1.2.pom>alimaven=
+#Thu Mar 19 09:06:20 CST 2020
 jstl-1.2.pom>central=
-jstl-1.2-sources.jar>central=
 jstl-1.2.jar>central=

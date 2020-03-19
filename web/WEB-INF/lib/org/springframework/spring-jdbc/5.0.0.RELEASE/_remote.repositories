@@ -1,7 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Mar 17 15:40:23 CST 2020
-spring-jdbc-5.0.0.RELEASE.jar>alimaven=
+#Thu Mar 19 09:06:21 CST 2020
 spring-jdbc-5.0.0.RELEASE.jar>central=
 spring-jdbc-5.0.0.RELEASE.pom>central=
-spring-jdbc-5.0.0.RELEASE.pom>alimaven=
-spring-jdbc-5.0.0.RELEASE-sources.jar>central=

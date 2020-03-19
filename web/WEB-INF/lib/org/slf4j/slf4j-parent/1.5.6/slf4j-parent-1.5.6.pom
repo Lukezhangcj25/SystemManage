@@ -145,7 +145,7 @@
             </group>
 
             <group>
-              <title>java.com.clz.demo.util.logging (JUL) to SLF4J bridge</title>
+              <title>java.util.logging (JUL) to SLF4J bridge</title>
               <packages>org.slf4j.bridge</packages>
             </group>
 

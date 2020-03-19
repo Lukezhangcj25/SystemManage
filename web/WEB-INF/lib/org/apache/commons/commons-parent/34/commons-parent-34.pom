@@ -1306,7 +1306,7 @@ Version 34:
     <commons.compiler.version>3.1</commons.compiler.version>
     <commons.scm-publish.version>1.0</commons.scm-publish.version>
 
-    <!-- Default values for the com.clz.demo.download-page generation by commons-build-plugin -->
+    <!-- Default values for the download-page generation by commons-build-plugin -->
     <commons.release.name>${project.artifactId}-${commons.release.version}</commons.release.name>
     <commons.release.desc />
     <commons.binary.suffix>-bin</commons.binary.suffix>

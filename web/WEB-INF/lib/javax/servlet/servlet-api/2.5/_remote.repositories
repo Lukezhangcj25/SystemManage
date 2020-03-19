@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Sep 29 15:18:05 CST 2019
-com.clz.demo.servlet-api-2.5.pom>central=
+#Thu Mar 19 09:25:30 CST 2020
+servlet-api-2.5.pom>central=
+servlet-api-2.5.jar>central=

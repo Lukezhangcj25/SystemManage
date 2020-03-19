@@ -997,7 +997,7 @@
     <commons.project-info.version>2.4</commons.project-info.version>
 
 
-    <!-- Default values for the com.clz.demo.download-page generation by commons-build-plugin -->
+    <!-- Default values for the download-page generation by commons-build-plugin -->
     <commons.release.name>${project.artifactId}-${commons.release.version}</commons.release.name>
     <commons.release.desc />
     <commons.binary.suffix>-bin</commons.binary.suffix>
@@ -1039,8 +1039,8 @@
     <project.reporting.outputEncoding>${commons.encoding}</project.reporting.outputEncoding>
 
     <!-- Javadoc link to Java API.  Default is Java 1.6; components can override to other versions -->
-    <commons.javadoc.java.link>http://com.clz.demo.download.oracle.com/javase/6/docs/api/</commons.javadoc.java.link>
-    <commons.javadoc.javaee.link>http://com.clz.demo.download.oracle.com/javaee/6/api/</commons.javadoc.javaee.link>
+    <commons.javadoc.java.link>http://download.oracle.com/javase/6/docs/api/</commons.javadoc.java.link>
+    <commons.javadoc.javaee.link>http://download.oracle.com/javaee/6/api/</commons.javadoc.javaee.link>
 
     <!-- build meta inf -->
     <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ssZ</maven.build.timestamp.format>

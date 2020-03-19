@@ -54,7 +54,7 @@ limitations under the License.
           <!-- required to ensure the test classes are used, not surefire's plexus-utils -->
           <childDelegation>true</childDelegation>
           <excludes>
-            <exclude>org/codehaus/plexus/com.clz.demo.util/FileBasedTestCase.java</exclude>
+            <exclude>org/codehaus/plexus/util/FileBasedTestCase.java</exclude>
             <exclude>**/Test*.java</exclude>
           </excludes>
           <systemProperties>

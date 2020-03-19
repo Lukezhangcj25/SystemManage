@@ -390,7 +390,7 @@ under the License.
             <artifactId>maven-antrun-plugin</artifactId>
             <executions>
               <execution>
-                <id>clean-com.clz.demo.download</id>
+                <id>clean-download</id>
                 <phase>clean</phase>
                 <configuration>
                   <tasks>
